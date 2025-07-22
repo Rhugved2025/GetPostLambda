@@ -1,0 +1,11 @@
+C:\Users\iitintern1\Desktop\Angular\LambdaFunction\src\LambdaFunction\bin\Release\net8.0\publish\LambdaFunction.deps.json
+C:\Users\iitintern1\Desktop\Angular\LambdaFunction\src\LambdaFunction\bin\Release\net8.0\publish\LambdaFunction.runtimeconfig.json
+C:\Users\iitintern1\Desktop\Angular\LambdaFunction\src\LambdaFunction\bin\Release\net8.0\publish\LambdaFunction.pdb
+C:\Users\iitintern1\Desktop\Angular\LambdaFunction\src\LambdaFunction\bin\Release\net8.0\publish\Amazon.Lambda.APIGatewayEvents.dll
+C:\Users\iitintern1\Desktop\Angular\LambdaFunction\src\LambdaFunction\bin\Release\net8.0\publish\Amazon.Lambda.Core.dll
+C:\Users\iitintern1\Desktop\Angular\LambdaFunction\src\LambdaFunction\bin\Release\net8.0\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\iitintern1\Desktop\Angular\LambdaFunction\src\LambdaFunction\bin\Release\net8.0\publish\AWSSDK.Core.dll
+C:\Users\iitintern1\Desktop\Angular\LambdaFunction\src\LambdaFunction\bin\Release\net8.0\publish\AWSSDK.DynamoDBv2.dll
+C:\Users\iitintern1\Desktop\Angular\LambdaFunction\src\LambdaFunction\bin\Release\net8.0\publish\AWSSDK.Lambda.dll
+C:\Users\iitintern1\Desktop\Angular\LambdaFunction\src\LambdaFunction\bin\Release\net8.0\publish\Newtonsoft.Json.dll
+C:\Users\iitintern1\Desktop\Angular\LambdaFunction\src\LambdaFunction\bin\Release\net8.0\publish\LambdaFunction.dll

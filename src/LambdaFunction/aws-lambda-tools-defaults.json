@@ -1,0 +1,12 @@
+{
+  "profile": "default",
+  "region": "ap-south-1",
+  "configuration": "Release",
+  "function-architecture": "x86_64",
+  "function-runtime": "dotnet8",
+  "function-memory-size": 512,
+  "function-timeout": 30,
+  "function-handler": "LambdaFunction::LambdaFunction.Function::FunctionHandler",
+  "framework": "net8.0",
+  "function-name": "StudentFormLambda"
+}
